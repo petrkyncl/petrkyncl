@@ -10,4 +10,4 @@ Full-stack and product engineer in Prague, and founder of **[MationX](https://ma
 
 Most of my work lives in private repositories; case studies and screenshots are on **[petrkyncl.com](https://petrkyncl.com)**.
 
-Open to part-time and contract work (Prague or remote) · [petr@mationx.com](mailto:petr@mationx.com) · [LinkedIn](https://linkedin.com/in/petrkyncl)
+Open to part-time and contract work (Prague or remote) · [petr@mationx.com](mailto:petr@mationx.com) · [LinkedIn](https://linkedin.com/in/kyncl)
