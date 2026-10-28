@@ -5,6 +5,8 @@ Full-stack and product engineer in Prague, and founder of **[MationX](https://ma
 - 🧩 **MationX Studio**: visual builder → AST compiler → encrypted per device · Next.js, Express, PostgreSQL, Socket.IO, MCP
 - 📱 **MationX Client**: the native Android engine, ~42k lines of Kotlin, 106 releases on Google Play
 - 🤖 **[STITCH](https://github.com/petrkyncl/stitch)**: a phone agent that learns new skills, tests them and runs them as code with zero AI calls, built solo overnight at Agents 0.0.7
+- 🔎 **[TLD Hunter](https://github.com/petrkyncl/tld-hunter)**: one name against every TLD, verified with registry RDAP/WHOIS instead of DNS, plus a Claude agent that brainstorms and checks names
+- 💬 **[WA Copy](https://github.com/petrkyncl/wa-copy)**: a WhatsApp Web extension that copies messages with time and sender, selects ranges and loads older history from the phone
 - 🏠 **Smart home platform**: heating, locks, cameras and network for a real house, on a Raspberry Pi 5
 - 🥈 2nd of 80 at Cursor Hackathon Prague
 
