@@ -20,16 +20,16 @@ Full-stack and product engineer in Prague, and founder of **[MationX](https://ma
 
 #### MationX in production
 
-| | |
-|---|---|
-| **611,000+** | automation runs on real Android phones |
-| **99.99%** | success over the last 7 days (103,438 runs) |
-| **10.7M** | automation steps executed |
-| **104,000+** | WhatsApp messages sent from real phones |
+<table>
+  <tr><td><b>611,000+</b></td><td>automation runs on real Android phones</td></tr>
+  <tr><td><b>99.99%</b></td><td>success over the last 7 days (103,438 runs)</td></tr>
+  <tr><td><b>10.7M</b></td><td>automation steps executed</td></tr>
+  <tr><td><b>104,000+</b></td><td>WhatsApp messages sent from real phones</td></tr>
+</table>
 
 #### Open source
 
-- 💬 **[whatsapp-mcp](https://github.com/petrkyncl/whatsapp-mcp)** ![stars](https://img.shields.io/github/stars/petrkyncl/whatsapp-mcp?style=flat&label=%E2%98%85) WhatsApp in Claude, ChatGPT or Cursor: read, search and send, the full history from your phone, PDFs, Excel and Word read out. Local or remote with OAuth.
+- 💬 **[whatsapp-mcp](https://github.com/petrkyncl/whatsapp-mcp)**: WhatsApp in Claude, ChatGPT or Cursor: read, search and send, the full history from your phone, PDFs, Excel and Word read out. Local or remote with OAuth.
 - 🧪 **[app-to-mcp](https://github.com/petrkyncl/app-to-mcp)**: describe an Android capability, an agent explores the app over ADB and turns it into tested MCP tools
 - 🤖 **[STITCH](https://github.com/petrkyncl/stitch)**: a phone agent that learns new skills, tests them and runs them as code with zero AI calls, built solo overnight at Agents 0.0.7
 - 🔎 **[TLD Hunter](https://github.com/petrkyncl/tld-hunter)**: one name against every TLD, verified with registry RDAP/WHOIS instead of DNS, plus a Claude agent that brainstorms and checks names
