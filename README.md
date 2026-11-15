@@ -46,7 +46,7 @@
     <td align="center" valign="top" width="25%"><h2>611k+</h2><sub>automation<br>runs</sub></td>
     <td align="center" valign="top" width="25%"><h2>99.99%</h2><sub>success,<br>last 7 days</sub></td>
     <td align="center" valign="top" width="25%"><h2>10.7M</h2><sub>automation<br>steps</sub></td>
-    <td align="center" valign="top" width="25%"><h2>104k+</h2><sub>WhatsApp<br>messages sent</sub></td>
+    <td align="center" valign="top" width="25%"><h2>104k+</h2><sub>WhatsApp<br>messages</sub></td>
   </tr>
 </table>
 <p align="center"><sub>On real Android phones, from MationX's production database, November 2026.</sub></p>
