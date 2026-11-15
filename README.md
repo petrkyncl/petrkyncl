@@ -81,6 +81,10 @@
   <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,docker,nginx,linux,cloudflare,githubactions,grafana,git&perline=12" alt="PostgreSQL, MySQL, SQLite, Docker, nginx, Linux, Cloudflare, GitHub Actions, Grafana, Git">
 </p>
 <p>
+  <b>AI and services</b><br>
+  <img src="./assets/icons-ai-tools.svg" alt="Claude, Anthropic, OpenAI, Stripe, Linear, Socket.IO, Playwright" height="48">
+</p>
+<p>
   <b>Devices</b><br>
   <img src="https://skillicons.dev/icons?i=androidstudio,raspberrypi,arduino,apple&perline=12" alt="Android, Raspberry Pi, Arduino, Apple">
 </p>
