@@ -28,7 +28,7 @@
 
 <div align="center">
   <a href="https://play.google.com/store/apps/details?id=com.mationx.client">
-    <img src="https://skillicons.dev/icons?i=androidstudio" alt="MationX Client" height="40">
+    <img src="./assets/mationx-client.svg" alt="MationX Client" height="44">
   </a>
   <br>
   <a href="https://play.google.com/store/apps/details?id=com.mationx.client"><b>MationX Client</b></a>
@@ -43,30 +43,31 @@
 
 <table align="center">
   <tr>
-    <td align="center" width="25%"><h2>611k+</h2><sub>automation runs<br>on real Android phones</sub></td>
-    <td align="center" width="25%"><h2>99.99%</h2><sub>success over<br>the last 7 days</sub></td>
-    <td align="center" width="25%"><h2>10.7M</h2><sub>automation steps<br>executed</sub></td>
-    <td align="center" width="25%"><h2>104k+</h2><sub>WhatsApp messages<br>sent from real phones</sub></td>
+    <td align="center" valign="top" width="25%"><h2>611k+</h2><sub>automation<br>runs</sub></td>
+    <td align="center" valign="top" width="25%"><h2>99.99%</h2><sub>success,<br>last 7 days</sub></td>
+    <td align="center" valign="top" width="25%"><h2>10.7M</h2><sub>automation<br>steps</sub></td>
+    <td align="center" valign="top" width="25%"><h2>104k+</h2><sub>WhatsApp<br>messages sent</sub></td>
   </tr>
 </table>
+<p align="center"><sub>On real Android phones, from MationX's production database, November 2026.</sub></p>
 
 <hr>
 
-### 🔓 Open source
+### Open source
 
-- 💬 **[whatsapp-mcp](https://github.com/petrkyncl/whatsapp-mcp)**: WhatsApp in Claude, ChatGPT or Cursor: read, search and send, the full history from your phone, PDFs, Excel and Word read out. Local or remote with OAuth.
-- 🧪 **[app-to-mcp](https://github.com/petrkyncl/app-to-mcp)**: describe an Android capability, an agent explores the app over ADB and turns it into tested MCP tools
-- 🤖 **[STITCH](https://github.com/petrkyncl/stitch)**: a phone agent that learns new skills, tests them and runs them as code with zero AI calls, built solo overnight at Agents 0.0.7
-- 🔎 **[TLD Hunter](https://github.com/petrkyncl/tld-hunter)**: one name against every TLD, verified with registry RDAP/WHOIS instead of DNS, plus a Claude agent that brainstorms and checks names
-- 🧩 **[WA Copy](https://github.com/petrkyncl/wa-copy)**: a WhatsApp Web extension that copies messages with time and sender, selects ranges and loads older history from the phone
-- 🚪 **[Gate opener](https://github.com/petrkyncl/whatsapp-gate-opener)**: a gate that opens on a WhatsApp message or SMS, run by an Android phone with Tasker
+- **[whatsapp-mcp](https://github.com/petrkyncl/whatsapp-mcp)**: WhatsApp in Claude, ChatGPT or Cursor: read, search and send, the full history from your phone, PDFs, Excel and Word read out. Local or remote with OAuth.
+- **[app-to-mcp](https://github.com/petrkyncl/app-to-mcp)**: describe an Android capability, an agent explores the app over ADB and turns it into tested MCP tools
+- **[STITCH](https://github.com/petrkyncl/stitch)**: a phone agent that learns new skills, tests them and runs them as code with zero AI calls, built solo overnight at Agents 0.0.7
+- **[TLD Hunter](https://github.com/petrkyncl/tld-hunter)**: one name against every TLD, verified with registry RDAP/WHOIS instead of DNS, plus a Claude agent that brainstorms and checks names
+- **[WA Copy](https://github.com/petrkyncl/wa-copy)**: a WhatsApp Web extension that copies messages with time and sender, selects ranges and loads older history from the phone
+- **[Gate opener](https://github.com/petrkyncl/whatsapp-gate-opener)**: a gate that opens on a WhatsApp message or SMS, run by an Android phone with Tasker
 
-### 🛠️ Also built
+### Also built
 
-- 🏠 **Smart home platform**: heating, locks, cameras and network for a real house, on a Raspberry Pi 5
-- 🥈 **2nd of 80** at Cursor Hackathon Prague
+- **Smart home platform**: heating, locks, cameras and network for a real house, on a Raspberry Pi 5
+- **2nd of 80** at Cursor Hackathon Prague
 
-### 🔧 Technologies
+### Technologies
 
 <p>
   <b>Languages</b><br>
@@ -78,11 +79,11 @@
 </p>
 <p>
   <b>Data and infrastructure</b><br>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,docker,nginx,linux,cloudflare,githubactions,grafana,git&perline=12" alt="PostgreSQL, MySQL, SQLite, Docker, nginx, Linux, Cloudflare, GitHub Actions, Grafana, Git">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,docker,nginx,linux,cloudflare,firebase,gcp,githubactions,grafana,git&perline=12" alt="PostgreSQL, MySQL, SQLite, Docker, nginx, Linux, Cloudflare, Firebase, Google Cloud, GitHub Actions, Grafana, Git">
 </p>
 <p>
   <b>AI and services</b><br>
-  <img src="./assets/icons-ai-tools.svg" alt="Claude, Anthropic, OpenAI, Stripe, Linear, Socket.IO, Playwright" height="48">
+  <img src="./assets/icons-ai-tools.svg" alt="Claude, OpenAI, Stripe, Resend, PostHog, Linear, Socket.IO, Puppeteer, Playwright" height="48">
 </p>
 <p>
   <b>Devices</b><br>
