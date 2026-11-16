@@ -4,7 +4,7 @@
       <a href="https://mationx.com">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="./assets/mationx-full-white.svg">
-          <img src="./assets/mationx-full-black.svg" alt="MationX" height="34">
+          <img src="./assets/mationx-full-black.svg" alt="MationX" height="40">
         </picture>
       </a>
       <br><a href="https://mationx.com"><b>MationX</b></a>
@@ -14,7 +14,7 @@
       <a href="https://studio.mationx.com">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="./assets/mationx-symbol-tight-white.svg">
-          <img src="./assets/mationx-symbol-tight-black.svg" alt="MationX Studio" height="34">
+          <img src="./assets/mationx-symbol-tight-black.svg" alt="MationX Studio" height="40">
         </picture>
       </a>
       <br><a href="https://studio.mationx.com"><b>MationX Studio</b></a>
@@ -22,7 +22,7 @@
     </td>
     <td align="center" valign="top" width="33%">
       <a href="https://play.google.com/store/apps/details?id=com.mationx.client">
-        <img src="./assets/mationx-client.svg" alt="MationX Client" height="46">
+        <img src="./assets/mationx-client.svg" alt="MationX Client" height="40">
       </a>
       <br><a href="https://play.google.com/store/apps/details?id=com.mationx.client"><b>MationX Client</b></a>
       <br><sub>Native Android engine,<br>106 releases on Google Play</sub>
