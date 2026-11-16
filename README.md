@@ -1,41 +1,34 @@
-<div align="center">
-  <a href="https://mationx.com">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./assets/mationx-full-white.svg">
-      <img src="./assets/mationx-full-black.svg" alt="MationX" height="44">
-    </picture>
-  </a>
-  <br>
-  <a href="https://mationx.com"><b>MationX</b></a>: real Android phones, automated
-  <br>
-  <sub><a href="https://mationx.com">Phone farms</a> · <a href="https://mationx.com/whatsapp-api">WhatsApp API</a> · <a href="https://mationx.com/instagram-dm-automation">Instagram DMs</a> · <a href="https://mationx.com/android-mcp">Android MCP</a></sub>
-</div>
-<hr>
-
-<div align="center">
-  <a href="https://studio.mationx.com">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./assets/mationx-symbol-tight-white.svg">
-      <img src="./assets/mationx-symbol-tight-black.svg" alt="MationX Studio" height="40">
-    </picture>
-  </a>
-  <br>
-  <a href="https://studio.mationx.com"><b>MationX Studio</b></a>
-  <br>
-  <sub>Visual builder → AST compiler → encrypted per device, with an MCP server so Claude builds and runs automations</sub>
-</div>
-<hr>
-
-<div align="center">
-  <a href="https://play.google.com/store/apps/details?id=com.mationx.client">
-    <img src="./assets/mationx-client.svg" alt="MationX Client" height="44">
-  </a>
-  <br>
-  <a href="https://play.google.com/store/apps/details?id=com.mationx.client"><b>MationX Client</b></a>
-  <br>
-  <sub>The native Android engine on every phone: ~42k lines of Kotlin, 106 releases on Google Play</sub>
-</div>
-<hr>
+<table align="center">
+  <tr>
+    <td align="center" valign="top" width="33%">
+      <a href="https://mationx.com">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="./assets/mationx-full-white.svg">
+          <img src="./assets/mationx-full-black.svg" alt="MationX" height="40">
+        </picture>
+      </a>
+      <br><a href="https://mationx.com"><b>MationX</b></a>
+      <br><sub>Real Android phones, automated:<br>farms, WhatsApp, Instagram, MCP</sub>
+    </td>
+    <td align="center" valign="top" width="33%">
+      <a href="https://studio.mationx.com">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="./assets/mationx-symbol-tight-white.svg">
+          <img src="./assets/mationx-symbol-tight-black.svg" alt="MationX Studio" height="40">
+        </picture>
+      </a>
+      <br><a href="https://studio.mationx.com"><b>MationX Studio</b></a>
+      <br><sub>Visual builder, AST compiler,<br>MCP server for Claude</sub>
+    </td>
+    <td align="center" valign="top" width="33%">
+      <a href="https://play.google.com/store/apps/details?id=com.mationx.client">
+        <img src="./assets/mationx-client.svg" alt="MationX Client" height="40">
+      </a>
+      <br><a href="https://play.google.com/store/apps/details?id=com.mationx.client"><b>MationX Client</b></a>
+      <br><sub>Native Android engine,<br>106 releases on Google Play</sub>
+    </td>
+  </tr>
+</table>
 
 <h3 align="center">Hi, I'm Petr 👋</h3>
 
